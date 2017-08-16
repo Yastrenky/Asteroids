@@ -1,6 +1,10 @@
 body {
   background-image: url("../img/space.jpg");
   overflow: hidden;
+  background-image: url(../img/space.jpg);
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #ship {
